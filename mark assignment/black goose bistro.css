@@ -1,0 +1,21 @@
+h2{
+    color: red;
+}
+h1{
+  text-align: center;
+}
+div{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p{
+    font-weight: bold;
+}
+.h1{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-color: #fde7d2;
+}
